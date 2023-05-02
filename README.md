@@ -5,12 +5,12 @@
 Code and data produced in 2023 by Tierra Abeyta as part of a Digital Humanities Placement project.
 
 This repo includes:
-- an in-depth write up on the purpose of this project, the importance of sonification (particularly of heritage data), and sonification methods/considerations
-- a codebook adapted from Matt Russo's sonification guide, with additional code, comments, and explanations
-- a codebook showing how I made my data cumulative
-- my initial data sonification audio file
-- my final audio file after being edited in FL Studio
-- a supplementary video project I created using two image sonifications made using a separate program and code (made for the University of Southampton Digital Humanities' 360° immersive audio-visual Igloo screen).
+1. an in-depth write up on the purpose of this project, the importance of sonification (particularly of heritage data), and sonification methods/considerations
+2. a codebook adapted from Matt Russo's sonification guide, with additional code, comments, and explanations
+3. a codebook showing how I made my data cumulative
+4. my initial data sonification audio file
+5. my final audio file after being edited in FL Studio
+6. a supplementary video project I created using two image sonifications made using a separate program and code (made for the University of Southampton Digital Humanities' 360° immersive audio-visual Igloo screen).
 
 ## Why
 
