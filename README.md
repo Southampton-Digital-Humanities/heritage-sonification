@@ -10,7 +10,7 @@ This repo includes:
 - a codebook showing how I made my data cumulative
 - my initial data sonification audio file
 - my final audio file after being edited in FL Studio
-- a supplementary video project I created using two image sonifications made using a separate program and code (made for the University of Southampton Digital Humanities' 360° immersive audio-visual Igloo screen.
+- a supplementary video project I created using two image sonifications made using a separate program and code (made for the University of Southampton Digital Humanities' 360° immersive audio-visual Igloo screen).
 
 ## Why
 
