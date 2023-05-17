@@ -6,7 +6,7 @@ Code and data produced in 2023 by Tierra Abeyta as part of a Digital Humanities 
 
 This repo includes:
 1. an in-depth write up on the purpose of this project, the importance of sonification (particularly of heritage data), and sonification methods/considerations
-2. a codebook adapted from Matt Russo's sonification guide, with additional code, comments, and explanations. *An runable version of this codebook as also been adapted for and published on [![Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1I83BvgD19lFu0h2m0c05HJ4fzlblDRYR?usp=sharing).*
+2. a codebook adapted from Matt Russo's sonification guide, with additional code, comments, and explanations. *A runable version of this codebook as also been adapted for and published on [![Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1I83BvgD19lFu0h2m0c05HJ4fzlblDRYR?usp=sharing).*
 3. a codebook showing how I made my data cumulative
 4. my initial data sonification audio file
 5. my final audio file after being edited in FL Studio
